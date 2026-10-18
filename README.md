@@ -20,3 +20,6 @@ Copy the `GamepadDot` folder into `World of Warcraft\<client>\Interface\AddOns\`
 Only touches Blizzard's `GamepadReticle` frame. If a patch renames it, hiding stops working.
 
 License: MIT
+
+## Releasing
+See `docs/agents/releasing.md`.
