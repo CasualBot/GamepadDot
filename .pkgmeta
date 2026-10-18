@@ -3,4 +3,5 @@ ignore:
   - README.md
   - AGENTS.md
   - docs
+  - deploy.ps1
   - .gitignore
