@@ -1,0 +1,4 @@
+package-as: GamepadDot
+ignore:
+  - README.md
+  - .gitignore

@@ -1,0 +1,7 @@
+## Interface: 16001, 11508, 11509, 120007, 120100
+## Title: GamepadDot
+## Notes: Enable or disable the gamepad center dot. /gdot for help.
+## Author: CasualBot
+## Version: @project-version@
+## SavedVariables: GamepadDotDB
+GamepadDot.lua
