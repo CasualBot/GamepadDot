@@ -1,4 +1,5 @@
 package-as: GamepadDot
 ignore:
   - README.md
+  - AGENTS.md
   - .gitignore
